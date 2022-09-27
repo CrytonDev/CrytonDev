@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Cryton
-I'm Cryton from Germany 🇩🇪. I really enjoy learning languages and frameworks like Python, C++ and Django, Pyorch
+I'm Cryton from Germany 🇩🇪. I really enjoy learning languages and frameworks like Python, C++ and Django.
+
+<a href="http://cryton.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="cryton.dev"></a>
 
 <h3 align="center">Languages I've worked with</h3>
 <p align="center">

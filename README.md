@@ -24,3 +24,5 @@ I'm Cryton from Germany 🇩🇪. I really enjoy learning languages and framewor
 </p>
 
 <a href=""><img src="" alt=""></a>
+
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white

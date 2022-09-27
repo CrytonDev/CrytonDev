@@ -3,7 +3,7 @@ I'm Cryton from Germany 🇩🇪. I really enjoy learning languages and framewor
 
 <p align="center">
   <a href="http://cryton.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="cryton.dev"></a>
-  <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/CrytonDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <h3 align="center">Languages I've worked with</h3>

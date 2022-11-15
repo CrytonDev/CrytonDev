@@ -10,7 +10,7 @@
 
 
 <!---------- PROGRAMMING LANGUAGE ---------->
-<hr>
+<br>
 <h3 align="center"> Languages I've worked with ⚙️ </h3> 
 
 <p align="center">
@@ -33,7 +33,7 @@
 <!---------- ---------------------------------------- ----------> 
 
   <!---------- FRAMEWORKS ----------> 
-<hr>
+<br>
 <h3 align="center">Frameworks I've worked with 🔧 </h3>
 <p align="center">
 
@@ -43,7 +43,7 @@
  <!---------- ---------------------------------------- ----------> 
  
   <!---------- STUDY ----------> 
- <hr>
+ <br>
 <h3 align="center"> What I am learning 📚</h3> <p align="center">
 <p align=center>
   <!-- Laravel -->  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a> 

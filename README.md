@@ -14,8 +14,8 @@
 <h3 align="center"> Languages I've worked with ⚙️ </h3> 
 
 <p align="center">
-  <h4> Software | Hardware | Scripts </h4>
-  <!-- C++ -->  <a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <h4 align="center"> Software | Hardware | Scripts </h4>
+  <!-- C++ -->  <a align="center" href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
   <!-- Python -->  <a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <!-- Flutter -->  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
   <br>
@@ -35,7 +35,7 @@
 <h3 align="center">Frameworks I've worked with 🔧 </h3>
 <p align="center">
 
-  <!-- Flask -->  <a align="center" href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
+  <!-- Flask -->  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
   <!-- TensorFlow -->  <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
   
  <!---------- ---------------------------------------- ----------> 

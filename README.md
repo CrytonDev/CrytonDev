@@ -21,9 +21,10 @@
   <br>
   <!---------- WEB-DEV ---------->
   <h4 align="center"> WEB-DEV </h4>
+<p align="center">
   <!-- HTML -->  <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   <!-- CSS -->  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
-  <!-- SASS -->  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SAAS"></a>
+  <!-- SASS -->  <a href="https://www.w3schools.com/sass/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SAAS"></a>
   <!-- JavaScript -->  <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"></a>
   <!-- PHP --> <a href="https://www.w3schools.com/php/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
 </p>

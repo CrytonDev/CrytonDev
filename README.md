@@ -12,7 +12,7 @@
 <!---------- PROGRAMMING LANGUAGE ---------->
 <hr>
 <h3 align="center"> Languages I've worked with ⚙️ </h3> 
-<br>
+
 <p align="center">
   <h4 align="center"> Software  |  Hardware  |  Scripts </h4>
 <p align="center">
@@ -34,7 +34,7 @@
 
   <!---------- FRAMEWORKS ----------> 
 <hr>
-<h3 align="center">Frameworks I've worked with 🔧 </h3> <br>
+<h3 align="center">Frameworks I've worked with 🔧 </h3>
 <p align="center">
 
   <!-- Flask -->  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>

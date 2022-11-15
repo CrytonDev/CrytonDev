@@ -12,6 +12,7 @@
 <!---------- PROGRAMMING LANGUAGE ---------->
 
 <h3 align="center"> Languages I've worked with ⚙️ </h3> 
+<hr>
 
 <p align="center">
   <h4 align="center"> Software  |  Hardware  |  Scripts </h4>
@@ -20,7 +21,6 @@
   <!-- Python -->  <a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <!-- Flutter -->  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 </p>
-  <br>
   <!---------- WEB-DEV ---------->
   <h4 align="center"> WEB-DEV </h4>
 <p align="center">
@@ -30,12 +30,12 @@
   <!-- JavaScript -->  <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"></a>
   <!-- PHP --> <a href="https://www.w3schools.com/php/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
 </p>
-
+<br>
 <!---------- ---------------------------------------- ----------> 
 
   <!---------- FRAMEWORKS ----------> 
 
-<h3 align="center">Frameworks I've worked with 🔧 </h3>
+<h3 align="center">Frameworks I've worked with 🔧 </h3> <hr>
 <p align="center">
 
   <!-- Flask -->  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
@@ -45,7 +45,7 @@
  
   <!---------- STUDY ----------> 
  
-<h3 align="center"> What I am learning 📚</h3> <p align="center">
+<h3 align="center"> What I am learning 📚</h3> <p align="center"> <hr>
 <p align=center>
   <!-- Laravel -->  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a> 
   <!-- React -->  <a href"https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>

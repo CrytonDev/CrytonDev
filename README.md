@@ -26,7 +26,7 @@
   <!-- SASS -->  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SAAS"></a>
   <!-- JavaScript -->  <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"></a>
   <!-- PHP --> <a href="https://www.w3schools.com/php/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-
+</p>
 
 <!---------- ---------------------------------------- ----------> 
 
@@ -35,7 +35,7 @@
 <h3 align="center">Frameworks I've worked with 🔧 </h3>
 <p align="center">
 
-  <!-- Flask -->  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
+  <!-- Flask -->  <a align="center" href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
   <!-- TensorFlow -->  <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
   
  <!---------- ---------------------------------------- ----------> 

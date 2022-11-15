@@ -20,7 +20,7 @@
   <!-- Flutter -->  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
   <br>
   <!---------- WEB-DEV ---------->
-  <h4> WEB-DEV </h4>
+  <h4 align="center"> WEB-DEV </h4>
   <!-- HTML -->  <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   <!-- CSS -->  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
   <!-- SASS -->  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SAAS"></a>

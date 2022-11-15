@@ -11,7 +11,7 @@
 
 <!---------- PROGRAMMING LANGUAGE ---------->
 <br>
-<h3 align="center"> Languages I've worked with ⚙️ </h3> 
+<h2 align="center"> Languages I've worked with 🔧 </h2> 
 
 <p align="center">
   <h4 align="center"> SOFTWARE   |   HARDWARE   |   SCRIPT </h4>
@@ -34,7 +34,7 @@
 
   <!---------- FRAMEWORKS ----------> 
 <br>
-<h3 align="center">Frameworks I've worked with 🔧 </h3>
+<h2 align="center">Frameworks I've worked with ⚙️ </h2>
 <p align="center">
 
   <!-- Flask -->  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
@@ -44,7 +44,7 @@
  
   <!---------- STUDY ----------> 
  <br>
-<h3 align="center"> What I am learning 📚</h3> <p align="center">
+<h2 align="center"> What I am learning 📚</h2> <p align="center">
 <p align=center>
   <!-- Laravel -->  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a> 
   <!-- React -->  <a href"https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>

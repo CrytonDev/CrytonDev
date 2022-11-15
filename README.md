@@ -44,7 +44,7 @@
  
   <!---------- STUDY ----------> 
  <hr>
-<h3 align="center"> What I am learning 📚</h3> <p align="center"> <br>
+<h3 align="center"> What I am learning 📚</h3> <p align="center">
 <p align=center>
   <!-- Laravel -->  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a> 
   <!-- React -->  <a href"https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>

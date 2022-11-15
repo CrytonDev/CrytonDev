@@ -14,7 +14,7 @@
 <h3 align="center"> Languages I've worked with ⚙️ </h3> <p align="center">
 
   <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a align="center">
+  <a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">     </a>
   
   <!-- Python -->
   <a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a align="center">
